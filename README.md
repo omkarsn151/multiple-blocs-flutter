@@ -1,6 +1,6 @@
-# multiple_blocs_flutter
+# Flutter Multi-BLoC App with Clean Architecture
 
-A new Flutter project.
+This Flutter app demonstrates how to manage multiple BLoC (Business Logic Component) instances using clean architecture principles. The app features reusable and modular widgets, state management with BLoC, and a simple UI to navigate between different screens.
 
 ## Getting Started
 
