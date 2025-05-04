@@ -15,14 +15,14 @@ This Flutter app demonstrates how to manage multiple BLoC (Business Logic Compon
 
 -Separation of Concerns: The app ensures that the UI (widgets) is separate from the business logic (BLoCs).
 
+## Below are some screenshots of the app
 
-##Screenshots
-###HomeScreen
-![image](https://github.com/user-attachments/assets/c9dc1668-ac52-473e-96df-50304f4d3d48)
+## HomeScreen
+![Home Screen](https://github.com/user-attachments/assets/c9dc1668-ac52-473e-96df-50304f4d3d48)
 
-###DaysScreen
-![image](https://github.com/user-attachments/assets/e331a774-ccd2-4a47-b29e-396ee7d96176)
+## DaysScreen
+![Days Screen](https://github.com/user-attachments/assets/e331a774-ccd2-4a47-b29e-396ee7d96176)
 
-###MonthsScreen
-![image](https://github.com/user-attachments/assets/132430b3-687b-4d1e-8437-13427a19e1af)
+## MonthsScreen
+![Months Screen](https://github.com/user-attachments/assets/132430b3-687b-4d1e-8437-13427a19e1af)
 
